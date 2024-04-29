@@ -978,12 +978,20 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-footer {
-  padding: 50px 0;
-  float: left;
+  padding-left: 430px;
+  float: right;
   width: 100%;
 }
 #fh5co-footer p:last-child {
-  margin-bottom: 0;
+  margin-bottom: 5;
+}
+
+#fh5co-map{
+  width: 90%;
+  position: relative;  
+  padding-inline: 320px;
+  margin: 30px;
+  margin-bottom: 4em
 }
 
 .contact-info {
@@ -1291,3 +1299,4 @@ input[type="text"] {
 }
 
 /*# sourceMappingURL=style.css.map */
+
